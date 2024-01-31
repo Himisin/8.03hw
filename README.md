@@ -13,7 +13,8 @@
 ### Задание 2
 
 
-![screenshot 2](https://github.com/Himisin/netology/blob/main/Screenshot_228.jpg2)
+![screenshot 2](https://github.com/Himisin/netology/blob/main/Screenshot_228.jpg)
+![screenshot 3](https://github.com/Himisin/netology/blob/main/Screenshot_227.jpg)
 
 
 ---
